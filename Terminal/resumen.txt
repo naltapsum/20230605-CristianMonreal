@@ -1,0 +1,6 @@
+nano
+mkdir
+touch
+cd
+clear
+
